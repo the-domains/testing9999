@@ -1,6 +1,6 @@
 name: Testing9999
 favicon: null
-layout_spectrum: 0.617862856015563
+layout_spectrum: 0.78912
 typography_spectrum: 0.534238307736814
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.15597627335228026
-  lightness: 0.4499274843838066
-  saturation: 0.7753677936270833
+    - '#ffffff'
+    - '#030116'
+    - '#3b364a'
+    - '#908492'
+    - '#b8b5ca'
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.625
   rhythmicContrast: 0.39128762017935514
 purpose: []
