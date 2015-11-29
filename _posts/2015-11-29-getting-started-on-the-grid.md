@@ -1,16 +1,15 @@
 ---
+datePublished: '2015-11-29T22:00:44.388Z'
 title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
+description: 'Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. '
+dateModified: '2015-11-29T21:49:20.564Z'
 author: []
-datePublished: '2015-11-29T20:53:17.719Z'
-dateModified: '2015-11-29T19:58:50.727Z'
 sourcePath: _posts/2015-11-29-getting-started-on-the-grid.md
 published: true
 inFeed: true
 hasPage: true
 inNav: false
 url: getting-started-on-the-grid/index.html
-_context: 'http://schema.org'
 _type: Article
 
 ---
@@ -135,3 +134,5 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Send us a message via the "Help" link.
 * Email us at feedback@thegrid.io
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+
+This is a test
