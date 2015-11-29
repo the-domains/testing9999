@@ -1,6 +1,6 @@
 name: Testing9999
 favicon: null
-layout_spectrum: 0.78912
+layout_spectrum: 0.98559
 typography_spectrum: 0.96842
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#ACB3C6'
   brandStrength: 0.4548872
   lightness: 0.4375
-  saturation: 0.625
+  saturation: 1
   rhythmicContrast: 0.3912876201793551
 purpose: []
