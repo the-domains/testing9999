@@ -1,28 +1,40 @@
-name: Testing9999
 favicon: null
-layout_spectrum: 0.78912
-typography_spectrum: 0.534238307736814
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Testing9999
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#030116'
-    - '#3b364a'
-    - '#908492'
-    - '#b8b5ca'
-  brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.625
-  rhythmicContrast: 0.39128762017935514
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.625
+  lightness: 0.4375
+  brandStrength: 0.4548872
+  brandColors:
+    - '#040403'
+    - '#5D5C5B'
+    - '#92875B'
+    - '#FFFFFF'
+    - '#ACB3C6'
+  rhythmicContrast: 0.3912876201793551
+typography_spectrum: 0.4280344
+layout_spectrum: 0.78912
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
