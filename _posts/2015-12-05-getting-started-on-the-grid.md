@@ -1,8 +1,8 @@
 ---
-datePublished: '2015-12-05T22:04:25.834Z'
+datePublished: '2015-12-13T11:13:41.057Z'
 title: Getting Started on The Grid
 description: 'Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. '
-dateModified: '2015-11-30T05:18:53.606Z'
+dateModified: '2015-12-05T22:04:25.834Z'
 author: []
 sourcePath: _posts/2015-12-05-getting-started-on-the-grid.md
 published: true
